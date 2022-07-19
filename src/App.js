@@ -9,37 +9,22 @@ function App() {
     {
       nome: 'Work',
       corPrimaria: '#57C278',
-      corSecundaria: '#D9F7E9'
+      corSecundaria: '#181824'
     },
     {
       nome: 'Personal',
       corPrimaria: '#82CFFA',
-      corSecundaria: '#E8F8FF'
-    },
-    {
-      nome: 'Family',
-      corPrimaria: '#A6D157',
-      corSecundaria: '#F0F8E2'
-    },
-    {
-      nome: 'Pet',
-      corPrimaria: '#E06B69',
-      corSecundaria: '#FDE7E8'
-    },
-    {
-      nome: 'Grocery',
-      corPrimaria: '#DB6EBF',
-      corSecundaria: '#FAE9F5'
-    },
+      corSecundaria: '#181824'
+    }, 
     {
       nome: 'Hobbie',
       corPrimaria: '#FFBA05',
-      corSecundaria: '#FFF5D9'
+      corSecundaria: '#181824'
     },
     {
       nome: 'Others',
       corPrimaria: '#FF8A29',
-      corSecundaria: '#FFEEDF'
+      corSecundaria: '#181824'
     }
   ]
 
